@@ -1,0 +1,23 @@
+### requirements.txt
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+numpy
+pandas
+transformers
+
+# Natural Language Processing
+nltk
+sentence-transformers
+
+# Google Gemini AI
+google-generativeai
+
+# API & Web Frameworks
+flask
+fastapi
+uvicorn
+
+# Data Serialization
+pickle-mixin

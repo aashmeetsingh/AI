@@ -1,0 +1,44 @@
+{
+  "resumes": [
+    {
+      "text": "Experienced software developer with Python, Java, and C++ skills.",
+      "category": "Software Engineer"
+    },
+    {
+      "text": "Marketing specialist with expertise in SEO, advertising, and branding.",
+      "category": "Marketing"
+    },
+    {
+      "text": "Data scientist skilled in machine learning, data visualization, and Python.",
+      "category": "Data Science"
+    },
+    {
+      "text": "Graphic designer proficient in Photoshop, Illustrator, and UI/UX design.",
+      "category": "Design"
+    },
+    {
+      "text": "Cybersecurity expert with experience in network security, cryptography, and penetration testing.",
+      "category": "Cybersecurity"
+    },
+    {
+      "text": "Cloud engineer with hands-on experience in AWS, Azure, and Kubernetes.",
+      "category": "Cloud Engineer"
+    },
+    {
+      "text": "Project manager with expertise in Agile methodologies, Scrum, and stakeholder management.",
+      "category": "Project Management"
+    },
+    {
+      "text": "AI/ML engineer skilled in deep learning, NLP, and TensorFlow.",
+      "category": "AI/ML Engineer"
+    },
+    {
+      "text": "Financial analyst with strong knowledge of risk assessment, investment strategies, and financial modeling.",
+      "category": "Finance"
+    },
+    {
+      "text": "HR specialist with experience in recruitment, employee engagement, and performance management.",
+      "category": "Human Resources"
+    }
+  ]
+}
