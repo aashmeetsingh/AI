@@ -21,6 +21,7 @@ uvicorn
 
 # Data Serialization
 pickle-mixin
-pymupdf python-docx
+pymupdf 
+python-docx
 python-multipart
 dotenv
